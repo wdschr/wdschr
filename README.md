@@ -4,7 +4,7 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 
 - 🔭 Currently working across **[@fenstreamtech](https://github.com/fenstreamtech)**, **[@wearedinohosting](https://github.com/wearedinohosting)**, and **[@abbeygateit](https://github.com/abbeygateit)**
 - 🏡 Also run the family org, **[@woodsnet](https://github.com/woodsnet)** — home automation on the side
-- 🌐 More about me: [fenstreamtechnologygroup.co.uk](https://www.fenstreamtechnologygroup.co.uk)
+- 🌐 More about us: [fenstreamtechnologygroup.co.uk](https://www.fenstreamtechnologygroup.co.uk)
 - 😄 My commits know what you did in the dark
 
 ---
