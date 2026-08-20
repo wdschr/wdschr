@@ -23,32 +23,20 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 
 | Repo | What it does |
 |---|---|
-| [macOS-Clearance-Kit](https://github.com/abbeygateit/macOS-Clearance-Kit) | Intercepts file-open events on macOS and enforces per-process access policies |
 | [macOS-Config-Profiles](https://github.com/abbeygateit/macOS-Config-Profiles) | Configuration profiles for macOS fleets |
 | [iOS-Config-Profiles](https://github.com/abbeygateit/iOS-Config-Profiles) | Configuration profiles for iOS devices |
 | [Apple-Beta-Software-Profiles](https://github.com/abbeygateit/Apple-Beta-Software-Profiles) | Profiles for managing Apple beta software enrolment |
 | [Apple-Script-Library](https://github.com/abbeygateit/Apple-Script-Library) | Collection of AppleScripts for macOS admin |
 | [Awesome-Bash-List](https://github.com/abbeygateit/Awesome-Bash-List) / [Awesome-Shell-List](https://github.com/abbeygateit/Awesome-Shell-List) | Curated shell/bash script collections |
-| [EUC-Shared-Repo](https://github.com/abbeygateit/EUC-Shared-Repo) / [HD-Shared-Repo](https://github.com/abbeygateit/HD-Shared-Repo) | Shared resources for End User Compute and Helpdesk |
 | [terraform-template](https://github.com/abbeygateit/terraform-template) | Baseline Terraform project template |
-| [Krampus-Internal](https://github.com/abbeygateit/Krampus-Internal) | Internal build of the Krampus tool |
 
-### 🧰 Dev tooling ([@fenstreamtech](https://github.com/fenstreamtech) & personal)
+### 🧰 Dev tooling ([@fenstreamtech](https://github.com/fenstreamtech))
 
 | Repo | What it does |
 |---|---|
 | [Enterprise-Katalyst](https://github.com/fenstreamtech/Enterprise-Katalyst) | Fenstream's Enterprise Katalyst project |
 | [Repo-Template](https://github.com/fenstreamtech/Repo-Template) | Standard repo scaffold for new Fenstream projects |
 | [Community-Discussions](https://github.com/fenstreamtech/Community-Discussions) | Home for Fenstream community discussion |
-| [claude-skills](https://github.com/wdschr/claude-skills) | Claude Code skills I've built |
-| [VSC-Code-Repo](https://github.com/wdschr/VSC-Code-Repo) | VS Code snippets, settings, and extensions |
-
-### 🗄️ Archive
-
-| Repo | What it does |
-|---|---|
-| [OAT-AT-EA-Scripts](https://github.com/wdschr/OAT-AT-EA-Scripts) | Archived automation scripts |
-| [Bruno-the-Retriever](https://github.com/wdschr/Bruno-the-Retriever) | Archived project, named after the good boy himself |
 
 ---
 
