@@ -40,6 +40,12 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 | [Community-Discussions](https://github.com/fenstreamtech/Community-Discussions) | Home for Fenstream community discussion |
 | [.github](https://github.com/fenstreamtech/.github) | Org-wide GitHub policies and procedures |
 
+### 🧑‍💻 Personal projects ([@wdschr](https://github.com/wdschr))
+
+| Repo | What it does |
+|---|---|
+| [arboretum](https://github.com/wdschr/arboretum) | A lightweight hostname and database tracking webapp |
+
 ---
 
 📫 Best way to reach me: open an issue or discussion on one of the repos above.
