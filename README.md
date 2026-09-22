@@ -45,6 +45,7 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 | Repo | What it does |
 |---|---|
 | [arboretum](https://github.com/wdschr/arboretum) | A lightweight hostname and database tracking webapp |
+| [waymark](https://github.com/wdschr/waymark) | A self-hosted bookmark manager built to run on plain PHP/MySQL shared hosting |
 
 ---
 
