@@ -2,7 +2,7 @@
 
 IT and infrastructure guy based out of Great Hockham, UK. If it has a config file, a plist, or a Homebridge accessory, there's a decent chance I've poked at it.
 
-- 🔭 Currently working across **[@fenstreamtech](https://github.com/fenstreamtech)** and **[@abbeygateit](https://github.com/abbeygateit)**
+- 🔭 Currently working across **[@fenstreamtech](https://github.com/fenstreamtech)**, **[@abbeygateit](https://github.com/abbeygateit)**, and **[@wearedinohosting](https://github.com/wearedinohosting)**
 - 🏡 Also run the family org, **[@woodsnet](https://github.com/woodsnet)** — home automation on the side
 - 🌐 More about us: [fenstreamtechnologygroup.co.uk](https://www.fenstreamtechnologygroup.co.uk)
 - 😄 My commits know what you did in the dark
