@@ -2,7 +2,7 @@
 
 IT and infrastructure guy based out of Great Hockham, UK. If it has a config file, a plist, or a Homebridge accessory, there's a decent chance I've poked at it.
 
-- 🔭 Currently working across **[@fenstreamtech](https://github.com/fenstreamtech)**, **[@wearedinohosting](https://github.com/wearedinohosting)**, and **[@abbeygateit](https://github.com/abbeygateit)**
+- 🔭 Currently working across **[@fenstreamtech](https://github.com/fenstreamtech)** and **[@abbeygateit](https://github.com/abbeygateit)**
 - 🏡 Also run the family org, **[@woodsnet](https://github.com/woodsnet)** — home automation on the side
 - 🌐 More about us: [fenstreamtechnologygroup.co.uk](https://www.fenstreamtechnologygroup.co.uk)
 - 😄 My commits know what you did in the dark
@@ -29,14 +29,16 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 | [Apple-Script-Library](https://github.com/abbeygateit/Apple-Script-Library) | Collection of AppleScripts for macOS admin |
 | [Awesome-Bash-List](https://github.com/abbeygateit/Awesome-Bash-List) / [Awesome-Shell-List](https://github.com/abbeygateit/Awesome-Shell-List) | Curated shell/bash script collections |
 | [terraform-template](https://github.com/abbeygateit/terraform-template) | Baseline Terraform project template |
+| [.github](https://github.com/abbeygateit/.github) | Org-wide community health files |
 
-### 🧰 Dev tooling ([@fenstreamtech](https://github.com/fenstreamtech))
+### 🧰 Dev tooling & community ([@fenstreamtech](https://github.com/fenstreamtech))
 
 | Repo | What it does |
 |---|---|
 | [Enterprise-Katalyst](https://github.com/fenstreamtech/Enterprise-Katalyst) | Fenstream's Enterprise Katalyst project |
 | [Repo-Template](https://github.com/fenstreamtech/Repo-Template) | Standard repo scaffold for new Fenstream projects |
 | [Community-Discussions](https://github.com/fenstreamtech/Community-Discussions) | Home for Fenstream community discussion |
+| [.github](https://github.com/fenstreamtech/.github) | Org-wide GitHub policies and procedures |
 
 ---
 
