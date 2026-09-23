@@ -46,6 +46,7 @@ IT and infrastructure guy based out of Great Hockham, UK. If it has a config fil
 |---|---|
 | [arboretum](https://github.com/wdschr/arboretum) | A lightweight hostname and database tracking webapp |
 | [waymark](https://github.com/wdschr/waymark) | A self-hosted bookmark manager built to run on plain PHP/MySQL shared hosting |
+| [pennywise](https://github.com/wdschr/pennywise) | A private, self-hosted budget planner with recurring items, savings goals, and reports |
 
 ---
 
